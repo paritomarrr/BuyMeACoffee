@@ -1,0 +1,45 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  background-color: #282828;
+  color: #3500D3;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 50px;
+  background-color: #3500D3;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: 0.2s ease-in-out;
+}
+button:hover {
+  background-color: #fff;
+  color: #3500D3;
+  /* box-shadow: rgba(255, 255, 255, 0.589) 0px 30px 90px;
+  box-shadow: rgba(255, 255, 255, 0.25) 0px 54px 55px, rgba(255, 255, 255, 0.12) 0px -12px 30px, rgba(255, 255, 255, 0.12) 0px 4px 6px, rgba(255, 255, 255, 0.17) 0px 12px 13px, rgba(255, 255, 255, 0.09) 0px -3px 5px; */
+  /* box-shadow: rgb(241, 241, 241) 0px 20px 30px -10px; */
+}
+
+.formgroup {
+  margin: 20px;
+  /* margin-left: 20px; */
+}
+.formgroup label {
+  font-size: 17px;
+  margin-bottom: 6px;
+}
