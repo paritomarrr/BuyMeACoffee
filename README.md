@@ -1,2 +1,2 @@
-You can see a demo of this repo on Replit : https://buypariacoffee.vercel.app/
+You can see a site live here: https://buypariacoffee.vercel.app/
 
